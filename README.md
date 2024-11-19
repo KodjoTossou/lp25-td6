@@ -237,4 +237,4 @@ Attention ! le tableau _argv_ contient au minimum une valeur qui est à la premi
 
 Écrire un programme nommé _tri_taille.c_ qui trie les arguments qui lui sont passés par ordre croissant de taille (longueur de la chaîne de caractères) et, en cas d'égalité, par ordre pseudo alphabétique ASCII. Par exemple, si on lui passe les paramètres `un deux trois quatre cinq six sept`, il doit trier pour obtenir le résultat `un six cinq deux sept trois quatre`. Utilisez de la mémoire dynamique pour construire votre tableau de résultats avant de l'afficher.
 
-## PS : TD proposé par Frédéric Lassabe : https://github.com/flassabe/
+### NB : TD proposé par Frédéric Lassabe : https://github.com/flassabe/
